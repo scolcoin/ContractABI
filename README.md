@@ -23,11 +23,9 @@ debe contener ejemplo:
 
 `
 {
-
   "message": "OK",
-  
   "result": {
-  
+
     "cataloged": true,
     
     "contractAddress": "0xcc8552943da009a3b0757bf02dafbdf5e8c8fba4",
@@ -44,11 +42,8 @@ debe contener ejemplo:
     
   },
   
-  "status": "1"
-  
-}
-
-`
+  "status": "1"  
+}`
 
 ## El Archivo ABI
 
