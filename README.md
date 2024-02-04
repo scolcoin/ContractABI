@@ -3,12 +3,14 @@ Este espacio esta diseñado para que todos los proyectos que quieran integrar la
 Nota: con esto se podra operar el token.
 
 `token/`
+
 Ejemplo:
 - scolcoin.sol
 - scolcoin.abi
 
 
 `nft/`
+
 Ejemplo:
 - scolnft.sol
 - scolnft.abi
