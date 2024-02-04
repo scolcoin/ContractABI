@@ -21,7 +21,8 @@ Ejemplo:
 
 debe contener ejemplo:
 
-`{
+`
+{
 
   "message": "OK",
   
@@ -42,8 +43,12 @@ debe contener ejemplo:
     "type": "ERC-20"
     
   },
+  
   "status": "1"
-}`
+  
+}
+
+`
 
 ## El Archivo ABI
 
