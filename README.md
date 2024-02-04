@@ -23,7 +23,9 @@ debe contener ejemplo:
 
 `
 {
+
   "message": "OK",
+  
   "result": {
 
     "cataloged": true,
