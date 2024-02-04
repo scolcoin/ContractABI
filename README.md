@@ -22,15 +22,25 @@ Ejemplo:
 debe contener ejemplo:
 
 `{
+
   "message": "OK",
+  
   "result": {
+  
     "cataloged": true,
+    
     "contractAddress": "0xcc8552943da009a3b0757bf02dafbdf5e8c8fba4",
+    
     "decimals": "18",
+    
     "name": "EWATTS",
+    
     "symbol": "EWG",
+    
     "totalSupply": "1100000000000000000000000",
+    
     "type": "ERC-20"
+    
   },
   "status": "1"
 }`
