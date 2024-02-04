@@ -21,7 +21,7 @@ Ejemplo:
 
 debe contener ejemplo:
 
-`
+
 {
 
   "message": "OK",
@@ -45,7 +45,7 @@ debe contener ejemplo:
   },
   
   "status": "1"  
-}`
+}
 
 ## El Archivo ABI
 
